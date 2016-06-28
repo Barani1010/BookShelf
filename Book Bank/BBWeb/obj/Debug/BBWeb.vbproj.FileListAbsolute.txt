@@ -1,0 +1,9 @@
+C:\Users\The Efficacious\Documents\Visual Studio 2013\Projects\Book Bank\Book Bank\BBWeb\bin\BBWeb.dll.config
+C:\Users\The Efficacious\Documents\Visual Studio 2013\Projects\Book Bank\Book Bank\BBWeb\bin\BBWeb.dll
+C:\Users\The Efficacious\Documents\Visual Studio 2013\Projects\Book Bank\Book Bank\BBWeb\bin\BBWeb.pdb
+C:\Users\The Efficacious\Documents\Visual Studio 2013\Projects\Book Bank\Book Bank\BBWeb\bin\BBWeb.xml
+C:\Users\The Efficacious\Documents\Visual Studio 2013\Projects\Book Bank\Book Bank\BBWeb\obj\Debug\BBWeb.Resources.resources
+C:\Users\The Efficacious\Documents\Visual Studio 2013\Projects\Book Bank\Book Bank\BBWeb\obj\Debug\BBWeb.vbproj.GenerateResource.Cache
+C:\Users\The Efficacious\Documents\Visual Studio 2013\Projects\Book Bank\Book Bank\BBWeb\obj\Debug\BBWeb.dll
+C:\Users\The Efficacious\Documents\Visual Studio 2013\Projects\Book Bank\Book Bank\BBWeb\obj\Debug\BBWeb.xml
+C:\Users\The Efficacious\Documents\Visual Studio 2013\Projects\Book Bank\Book Bank\BBWeb\obj\Debug\BBWeb.pdb

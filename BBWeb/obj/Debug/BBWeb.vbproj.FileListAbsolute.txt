@@ -1,0 +1,16 @@
+C:\Users\The Efficacious\documents\visual studio 2013\Projects\Book Bank\BBWeb\bin\BBWeb.dll.config
+C:\Users\The Efficacious\documents\visual studio 2013\Projects\Book Bank\BBWeb\bin\BBWeb.dll
+C:\Users\The Efficacious\documents\visual studio 2013\Projects\Book Bank\BBWeb\bin\BBWeb.pdb
+C:\Users\The Efficacious\documents\visual studio 2013\Projects\Book Bank\BBWeb\bin\BBWeb.xml
+C:\Users\The Efficacious\documents\visual studio 2013\Projects\Book Bank\BBWeb\obj\Debug\BBWeb.Resources.resources
+C:\Users\The Efficacious\documents\visual studio 2013\Projects\Book Bank\BBWeb\obj\Debug\BBWeb.vbproj.GenerateResource.Cache
+C:\Users\The Efficacious\documents\visual studio 2013\Projects\Book Bank\BBWeb\obj\Debug\BBWeb.dll
+C:\Users\The Efficacious\documents\visual studio 2013\Projects\Book Bank\BBWeb\obj\Debug\BBWeb.xml
+C:\Users\The Efficacious\documents\visual studio 2013\Projects\Book Bank\BBWeb\obj\Debug\BBWeb.pdb
+C:\Users\The Efficacious\documents\visual studio 2013\Projects\Book Bank\BBWeb\bin\Database\LMS.sdf
+C:\Users\The Efficacious\documents\visual studio 2013\Projects\Book Bank\BBWeb\bin\Book Bank.exe
+C:\Users\The Efficacious\documents\visual studio 2013\Projects\Book Bank\BBWeb\bin\Book Bank.pdb
+C:\Users\The Efficacious\documents\visual studio 2013\Projects\Book Bank\BBWeb\bin\Book Bank.xml
+C:\Users\The Efficacious\documents\visual studio 2013\Projects\Book Bank\BBWeb\obj\Debug\BBWeb.vbprojResolveAssemblyReference.cache
+C:\Users\The Efficacious\documents\visual studio 2013\Projects\Book Bank\BBWeb\bin\Database\BB.mdf
+C:\Users\The Efficacious\documents\visual studio 2013\Projects\Book Bank\BBWeb\bin\Database\BB_log.ldf

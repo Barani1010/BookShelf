@@ -1,0 +1,28 @@
+C:\Users\The Efficacious\Documents\Visual Studio 2013\Projects\Book Bank\Book Bank\WindowsClientProject\bin\Debug\WindowsClientProject.exe.config
+C:\Users\The Efficacious\Documents\Visual Studio 2013\Projects\Book Bank\Book Bank\WindowsClientProject\obj\Debug\WindowsClientProject.vbprojResolveAssemblyReference.cache
+C:\Users\The Efficacious\Documents\Visual Studio 2013\Projects\Book Bank\Book Bank\WindowsClientProject\obj\Debug\WindowsClientProject.LoginForm.resources
+C:\Users\The Efficacious\Documents\Visual Studio 2013\Projects\Book Bank\Book Bank\WindowsClientProject\obj\Debug\WindowsClientProject.MainWindow.resources
+C:\Users\The Efficacious\Documents\Visual Studio 2013\Projects\Book Bank\Book Bank\WindowsClientProject\obj\Debug\WindowsClientProject.Resources.resources
+C:\Users\The Efficacious\Documents\Visual Studio 2013\Projects\Book Bank\Book Bank\WindowsClientProject\obj\Debug\WindowsClientProject.vbproj.GenerateResource.Cache
+C:\Users\The Efficacious\Documents\Visual Studio 2013\Projects\Book Bank\Book Bank\WindowsClientProject\bin\Debug\WindowsClientProject.exe
+C:\Users\The Efficacious\Documents\Visual Studio 2013\Projects\Book Bank\Book Bank\WindowsClientProject\bin\Debug\WindowsClientProject.pdb
+C:\Users\The Efficacious\Documents\Visual Studio 2013\Projects\Book Bank\Book Bank\WindowsClientProject\bin\Debug\WindowsClientProject.xml
+C:\Users\The Efficacious\Documents\Visual Studio 2013\Projects\Book Bank\Book Bank\WindowsClientProject\bin\Debug\Book Bank.exe
+C:\Users\The Efficacious\Documents\Visual Studio 2013\Projects\Book Bank\Book Bank\WindowsClientProject\bin\Debug\Book Bank.pdb
+C:\Users\The Efficacious\Documents\Visual Studio 2013\Projects\Book Bank\Book Bank\WindowsClientProject\bin\Debug\Book Bank.xml
+C:\Users\The Efficacious\Documents\Visual Studio 2013\Projects\Book Bank\Book Bank\WindowsClientProject\obj\Debug\WindowsClientProject.exe
+C:\Users\The Efficacious\Documents\Visual Studio 2013\Projects\Book Bank\Book Bank\WindowsClientProject\obj\Debug\WindowsClientProject.xml
+C:\Users\The Efficacious\Documents\Visual Studio 2013\Projects\Book Bank\Book Bank\WindowsClientProject\obj\Debug\WindowsClientProject.pdb
+C:\Users\The Efficacious\Documents\Visual Studio 2013\Projects\Book Bank\Book Bank\WindowsClientProject\obj\Debug\WindowsClientProject.AddStaffForm.resources
+C:\Users\The Efficacious\Documents\Visual Studio 2013\Projects\Book Bank\Book Bank\WindowsClientProject\obj\Debug\WindowsClientProject.AddShelfForm.resources
+C:\Users\The Efficacious\Documents\Visual Studio 2013\Projects\Book Bank\Book Bank\WindowsClientProject\obj\Debug\WindowsClientProject.EditStaffForm.resources
+C:\Users\The Efficacious\documents\visual studio 2013\Projects\Book Bank\Book Bank\WindowsClientProject\obj\Debug\WindowsClientProject.EditShelfForm.resources
+C:\Users\The Efficacious\documents\visual studio 2013\Projects\Book Bank\Book Bank\WindowsClientProject\obj\Debug\WindowsClientProject.AddBookForm.resources
+C:\Users\The Efficacious\documents\visual studio 2013\Projects\Book Bank\Book Bank\WindowsClientProject\obj\Debug\WindowsClientProject.EditBookForm.resources
+C:\Users\The Efficacious\documents\visual studio 2013\Projects\Book Bank\Book Bank\WindowsClientProject\obj\Debug\WindowsClientProject.AddStudentForm.resources
+C:\Users\The Efficacious\documents\visual studio 2013\Projects\Book Bank\Book Bank\WindowsClientProject\obj\Debug\WindowsClientProject.EditStudentForm.resources
+C:\Users\The Efficacious\documents\visual studio 2013\Projects\Book Bank\Book Bank\WindowsClientProject\obj\Debug\WindowsClientProject.SetStudentPasswordForm.resources
+C:\Users\The Efficacious\documents\visual studio 2013\Projects\Book Bank\Book Bank\WindowsClientProject\bin\Debug\Database\LMS.sdf
+C:\Users\The Efficacious\documents\visual studio 2013\Projects\Book Bank\Book Bank\WindowsClientProject\obj\Debug\WindowsClientProject.DisplayBookingDetailsForm.resources
+C:\Users\The Efficacious\documents\visual studio 2013\Projects\Book Bank\Book Bank\WindowsClientProject\bin\Debug\Database\BB.mdf
+C:\Users\The Efficacious\documents\visual studio 2013\Projects\Book Bank\Book Bank\WindowsClientProject\bin\Debug\Database\BB_log.ldf

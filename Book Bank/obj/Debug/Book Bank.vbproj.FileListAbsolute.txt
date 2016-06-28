@@ -1,0 +1,22 @@
+c:\users\the efficacious\documents\visual studio 2013\Projects\Book Bank\Book Bank\bin\Debug\Book Bank.exe.config
+c:\users\the efficacious\documents\visual studio 2013\Projects\Book Bank\Book Bank\bin\Debug\Book Bank.exe
+c:\users\the efficacious\documents\visual studio 2013\Projects\Book Bank\Book Bank\bin\Debug\Book Bank.pdb
+c:\users\the efficacious\documents\visual studio 2013\Projects\Book Bank\Book Bank\bin\Debug\Book Bank.xml
+c:\users\the efficacious\documents\visual studio 2013\Projects\Book Bank\Book Bank\obj\Debug\Book Bank.vbprojResolveAssemblyReference.cache
+c:\users\the efficacious\documents\visual studio 2013\Projects\Book Bank\Book Bank\obj\Debug\Book_Bank.Resources.resources
+c:\users\the efficacious\documents\visual studio 2013\Projects\Book Bank\Book Bank\obj\Debug\Book Bank.vbproj.GenerateResource.Cache
+c:\users\the efficacious\documents\visual studio 2013\Projects\Book Bank\Book Bank\obj\Debug\Book Bank.exe
+c:\users\the efficacious\documents\visual studio 2013\Projects\Book Bank\Book Bank\obj\Debug\Book Bank.xml
+c:\users\the efficacious\documents\visual studio 2013\Projects\Book Bank\Book Bank\obj\Debug\Book Bank.pdb
+C:\Users\The Efficacious\documents\visual studio 2013\Projects\Book Bank\Book Bank\bin\Debug\EntityFramework.dll
+C:\Users\The Efficacious\documents\visual studio 2013\Projects\Book Bank\Book Bank\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\The Efficacious\documents\visual studio 2013\Projects\Book Bank\Book Bank\bin\Debug\System.Data.SQLite.dll
+C:\Users\The Efficacious\documents\visual studio 2013\Projects\Book Bank\Book Bank\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\The Efficacious\documents\visual studio 2013\Projects\Book Bank\Book Bank\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\The Efficacious\documents\visual studio 2013\Projects\Book Bank\Book Bank\bin\Debug\EntityFramework.xml
+C:\Users\The Efficacious\documents\visual studio 2013\Projects\Book Bank\Book Bank\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\The Efficacious\documents\visual studio 2013\Projects\Book Bank\Book Bank\bin\Debug\System.Data.SQLite.xml
+C:\Users\The Efficacious\documents\visual studio 2013\Projects\Book Bank\Book Bank\obj\Debug\Book_Bank.MainWindow.resources
+C:\Users\The Efficacious\documents\visual studio 2013\Projects\Book Bank\Book Bank\bin\Debug\Database\LMS.sdf
+C:\Users\The Efficacious\documents\visual studio 2013\Projects\Book Bank\Book Bank\bin\Debug\Database\BB.mdf
+C:\Users\The Efficacious\documents\visual studio 2013\Projects\Book Bank\Book Bank\bin\Debug\Database\BB_log.ldf

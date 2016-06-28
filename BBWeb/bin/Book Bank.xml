@@ -1,0 +1,52 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+BookBank
+</name>
+</assembly>
+<members>
+<member name="M:Book_Bank.DetailedQueueEntryClass.LoadBookingRecord(Book_Bank.DBMSClass,System.Int64,System.String)">
+	<summary>
+ this function is used to load a queue record
+ </summary>
+	<param name="DBMS"></param>
+	<param name="StudentID"></param>
+	<param name="BookID"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Book_Bank.DetailedQueueEntryClass.GetBookingListForBook(Book_Bank.DBMSClass,System.String)">
+	<summary>
+ get list of booking details for a book
+ </summary>
+	<param name="DBMS"></param>
+	<param name="BookID"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="T:Book_Bank.DetailedQueueEntryClass">
+	<summary>
+ this class represents a record for a given book
+ it shows which student want to borrow which book
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Book_Bank.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Book_Bank.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Book_Bank.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:Book_Bank.QueueClass">
+	<summary>
+ this class is used to manage booking queues
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>
